@@ -1,0 +1,11 @@
+{
+  "jsc": {
+    "experimental": {
+      "plugins": [["@swc/plugin-styled-jsx", {}]]
+    },
+    "parser": {
+      "syntax": "ecmascript",
+      "jsx": true
+    }
+  }
+}
